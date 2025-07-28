@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Shoumik Mehta
+## 👋 Hi, I'm Shoumik Anand Mehta
 
 I'm a graduate student in **Business Analytics** at the University of Adelaide, passionate about transforming complex data into actionable insights. With hands-on experience in marketing analytics, customer segmentation, and lifecycle optimisation, I enjoy solving business problems using tools like **SQL, Python, R, Tableau**, and **Looker Studio**.
 
