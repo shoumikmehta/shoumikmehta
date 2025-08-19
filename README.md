@@ -26,11 +26,38 @@ I'm a graduate student in **Business Analytics** at the University of Adelaide, 
 ---
 
 ### 📜 Certifications
-- **Introduction to R & Tidyverse** – *DataCamp* (2024)  
-- **Investment Management & Excel Modelling** – *Certified by Microsoft & BBA Dept, St. Joseph’s* (2022)  
-- **Global IQ Connect** – *Intercultural Collaboration & Adaptability* – University of Adelaide (2024)  
-- **Communication Skills (Grade 5)** – *Trinity College London* – Merit
+**DataCamp (2024) **
+Introduction to SQL
 
+Introduction to Data Ethics
+
+AI Ethics
+
+Anomaly Detection in Python
+
+Analysing Data in Tableau
+
+Visualising Time Series Data in Python
+
+Introduction to Statistics in Python
+
+Introduction to Statistics
+
+Introduction to the Tidyverse
+
+Introduction to R
+
+**University of Adelaide (2024)**
+
+Global IQ Connect – Intercultural Collaboration & Adaptability
+
+**Microsoft & BBA Dept. St. Joseph’s (2022)
+**
+Investment Management & Excel Modelling
+
+**Trinity College London
+**
+Communication Skills (Grade 5) – Merit
 ---
 
 ### 🤝 Let’s Connect
