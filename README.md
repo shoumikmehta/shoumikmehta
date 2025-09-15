@@ -37,7 +37,9 @@ I'm a graduate student in **Business Analytics** at the University of Adelaide, 
 - Introduction to Statistics in Python  
 - Introduction to Statistics  
 - Introduction to the Tidyverse  
-- Introduction to R  
+- Introduction to R
+- Hypothesis Testing in Python
+- Cluster Analysis in Python
 
 ### University of Adelaide (2024)  
 - Global IQ Connect – Intercultural Collaboration & Adaptability  
